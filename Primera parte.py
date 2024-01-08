@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # se importa el json
-with open('taylor_swift_spotify.json', 'r', encoding='utf-8') as file:
+with open('Prueba-T-cnica-R5-Kevin-Bonnin/taylor_swift_spotify.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Crea listas para cada columna
