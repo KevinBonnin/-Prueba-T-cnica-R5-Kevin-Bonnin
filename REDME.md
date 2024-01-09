@@ -44,3 +44,4 @@ Dichas columnas fueron seleccionadas bajo el criterio de cuales pueden servir co
 
 'audio_features.tempo': En este caso nu fueron encontrados outliers
 
+Video del codigo: https://www.youtube.com/watch?v=4mFRa_sdCds
